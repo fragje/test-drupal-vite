@@ -1,0 +1,7 @@
+global-styling:
+  vite: true
+  css:
+    theme:
+      styles/index.scss: {}
+  js:
+    js/index.js: {}

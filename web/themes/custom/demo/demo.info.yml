@@ -1,0 +1,17 @@
+name: Demo
+type: theme
+base theme: false
+description: Custom theme for Vite.
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9
+libraries:
+  - demo/global-styling
+regions:
+  header: 'Header'
+  breadcrumb: 'Breadcrumb'
+  pre_content: 'Pre-content'
+  content: 'Content'
+  footer_top: 'Footer Top'
+  footer: 'Footer'
+  footer_bar: 'Footer Bar'
